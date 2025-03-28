@@ -1,0 +1,519 @@
+2023-01-03T02:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn398"}     wn398	[5016190.535099] Killed process 17404 (root.exe), UID 17200, total-vm:93094916kB, anon-rss:3020244kB, file-rss:4740kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn398"}     wn398	[5016190.524813] Memory cgroup out of memory: Kill process 17487 (root.exe) score 969 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn382"}     wn382	[4758516.731002] Killed process 8162 (root.exe), UID 17200, total-vm:213853688kB, anon-rss:3068864kB, file-rss:5588kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn382"}     wn382	[4758516.720996] Memory cgroup out of memory: Kill process 8984 (root.exe) score 945 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn379"}     wn379	[4759443.424207] Killed process 30107 (root.exe), UID 17200, total-vm:3456345736kB, anon-rss:3011500kB, file-rss:17612kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn379"}     wn379	[4759443.414200] Memory cgroup out of memory: Kill process 30469 (root.exe) score 380 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn272"}     wn272	[5018258.290740] Killed process 8688 (root.exe), UID 17200, total-vm:86959036kB, anon-rss:3053724kB, file-rss:68396kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn272"}     wn272	[5018258.281587] Memory cgroup out of memory: Kill process 9148 (root.exe) score 843 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn198"}     wn198	[4976763.766435] Killed process 30401 (root.exe), UID 17200, total-vm:2938086620kB, anon-rss:3017128kB, file-rss:24532kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn198"}     wn198	[4976763.756415] Memory cgroup out of memory: Kill process 30796 (root.exe) score 722 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn197"}     wn197	[4859774.089795] Killed process 18978 (root.exe), UID 17200, total-vm:98592176kB, anon-rss:3003364kB, file-rss:26440kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn197"}     wn197	[4859774.079800] Memory cgroup out of memory: Kill process 19234 (root.exe) score 993 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn029"}     wn029	[4896555.251809] Killed process 10590 (root.exe), UID 17200, total-vm:84342696kB, anon-rss:3015776kB, file-rss:33964kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn029"}     wn029	[4896555.241619] Memory cgroup out of memory: Kill process 10724 (root.exe) score 998 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Tue Jan 3 05:00:04 MSK 2023 Last update log
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni032"}    wni032	[116621.982129] Killed process 12145 (root.exe), UID 17200, total-vm:87876536kB, anon-rss:3001940kB, file-rss:17892kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni032"}    wni032	[116621.972281] Memory cgroup out of memory: Kill process 12303 (root.exe) score 797 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a003"}   wn2a003	[4869876.073300] Killed process 36032 (root.exe), UID 17200, total-vm:85353328kB, anon-rss:2904732kB, file-rss:55044kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a003"}   wn2a003	[4869876.063348] Memory cgroup out of memory: Kill process 36953 (root.exe) score 812 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4892080.216041] Killed process 107684 (root.exe), UID 17200, total-vm:2074716004kB, anon-rss:3179920kB, file-rss:28700kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4892080.205088] Memory cgroup out of memory: Kill process 108251 (root.exe) score 994 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4891220.179731] Killed process 103029 (root.exe), UID 17200, total-vm:62022660kB, anon-rss:3117184kB, file-rss:88652kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4891220.168982] Memory cgroup out of memory: Kill process 103206 (root.exe) score 668 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn201"}     wn201	[4979694.477044] Killed process 62404 (root.exe), UID 17200, total-vm:132834312kB, anon-rss:3072884kB, file-rss:157556kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn201"}     wn201	[4979694.466732] Memory cgroup out of memory: Kill process 62831 (root.exe) score 1001 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn137"}     wn137	[4953120.230180] Killed process 9880 (root.exe), UID 17200, total-vm:107701684kB, anon-rss:3024624kB, file-rss:6976kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn137"}     wn137	[4953120.220111] Memory cgroup out of memory: Kill process 10215 (root.exe) score 969 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn137"}     wn137	[4952842.139492] Killed process 9834 (root.exe), UID 17200, total-vm:822371840kB, anon-rss:3007724kB, file-rss:40856kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn137"}     wn137	[4952842.129493] Memory cgroup out of memory: Kill process 10220 (root.exe) score 137 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn125"}     wn125	[4928727.490313] Killed process 22150 (root.exe), UID 17200, total-vm:109872280kB, anon-rss:2940440kB, file-rss:0kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn125"}     wn125	[4928727.480231] Memory cgroup out of memory: Kill process 22210 (root.exe) score 996 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn117"}     wn117	[4908860.191833] Killed process 19159 (root.exe), UID 17200, total-vm:87352828kB, anon-rss:3008712kB, file-rss:36556kB, shmem-rss:0kB
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn117"}     wn117	[4908860.181922] Memory cgroup out of memory: Kill process 19323 (root.exe) score 907 or sacrifice child
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 05:00:04 MSK 2023 Last update log
+2023-01-03T02:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni039"}    wni039	[4882103.082306] Killed process 17657 (root.exe), UID 17200, total-vm:111830668kB, anon-rss:3004692kB, file-rss:7648kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni039"}    wni039	[4882103.071792] Memory cgroup out of memory: Kill process 17843 (root.exe) score 998 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni024"}    wni024	[4909026.735270] Killed process 11525 (root.exe), UID 17200, total-vm:1237395012kB, anon-rss:3036632kB, file-rss:4108kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni024"}    wni024	[4909026.725185] Memory cgroup out of memory: Kill process 11721 (root.exe) score 999 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni022"}    wni022	[4879745.239953] Killed process 2343 (root.exe), UID 17200, total-vm:8295654616kB, anon-rss:2980292kB, file-rss:4296kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni022"}    wni022	[4879745.229522] Memory cgroup out of memory: Kill process 2446 (root.exe) score 980 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a001"}   wn2a001	[4855748.382341] Killed process 95970 (root.exe), UID 17200, total-vm:249767568kB, anon-rss:3010720kB, file-rss:37408kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a001"}   wn2a001	[4855748.371383] Memory cgroup out of memory: Kill process 96392 (root.exe) score 990 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4897157.913073] Killed process 9624 (root.exe), UID 17200, total-vm:100295540kB, anon-rss:3103988kB, file-rss:216256kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4897157.903138] Memory cgroup out of memory: Kill process 9624 (root.exe) score 1002 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4897154.372204] Killed process 9378 (root.exe), UID 17200, total-vm:100295540kB, anon-rss:3103884kB, file-rss:216256kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4897154.362314] Memory cgroup out of memory: Kill process 9627 (root.exe) score 1002 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn136"}     wn136	[4811959.039867] Killed process 26693 (root.exe), UID 17200, total-vm:35603672kB, anon-rss:2949776kB, file-rss:32896kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn136"}     wn136	[4811959.029844] Memory cgroup out of memory: Kill process 27082 (root.exe) score 308 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn102"}     wn102	[4783566.860784] Killed process 8134 (root.exe), UID 17200, total-vm:5892187352kB, anon-rss:3002432kB, file-rss:69084kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn102"}     wn102	[4783566.850293] Memory cgroup out of memory: Kill process 8391 (root.exe) score 175 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn102"}     wn102	[4783565.550923] Killed process 31716 (root.exe), UID 17200, total-vm:1233298508kB, anon-rss:2999812kB, file-rss:28536kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn102"}     wn102	[4783565.540425] Memory cgroup out of memory: Kill process 32197 (root.exe) score 865 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn043"}     wn043	[4861574.499083] Killed process 116361 (root.exe), UID 17200, total-vm:105866464kB, anon-rss:3046580kB, file-rss:460kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn043"}     wn043	[4861574.487804] Memory cgroup out of memory: Kill process 116444 (root.exe) score 967 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn042"}     wn042	[4992647.375069] Killed process 166000 (root.exe), UID 17200, total-vm:2473698448kB, anon-rss:3049004kB, file-rss:71164kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn042"}     wn042	[4992647.363715] Memory cgroup out of memory: Kill process 166128 (root.exe) score 1000 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn007"}     wn007	[4799252.724668] Killed process 14411 (root.exe), UID 17200, total-vm:1231627272kB, anon-rss:2986092kB, file-rss:4184kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn007"}     wn007	[4799252.714504] Memory cgroup out of memory: Kill process 14565 (root.exe) score 638 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 04:40:03 MSK 2023 Last update log
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn395"}     wn395	[4858401.544450] Killed process 1497 (root.exe), UID 17200, total-vm:9928288388kB, anon-rss:2985908kB, file-rss:38260kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn395"}     wn395	[4858401.534579] Memory cgroup out of memory: Kill process 1822 (root.exe) score 919 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn393"}     wn393	[5037993.959454] Killed process 10939 (root.exe), UID 17200, total-vm:182600640kB, anon-rss:3009748kB, file-rss:3908kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn393"}     wn393	[5037993.948703] Memory cgroup out of memory: Kill process 11070 (root.exe) score 962 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn382"}     wn382	[4757367.879485] Killed process 10155 (root.exe), UID 17200, total-vm:62022588kB, anon-rss:3018552kB, file-rss:4124kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn382"}     wn382	[4757367.869399] Memory cgroup out of memory: Kill process 10240 (root.exe) score 603 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn379"}     wn379	[4757800.195090] Killed process 31010 (root.exe), UID 17200, total-vm:267052176kB, anon-rss:1739920kB, file-rss:80kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn379"}     wn379	[4757800.186371] Out of memory: Kill process 31010 (root.exe) score 542 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn361"}     wn361	[4753370.303061] Killed process 19186 (root.exe), UID 17200, total-vm:259007348kB, anon-rss:3033496kB, file-rss:1548kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn361"}     wn361	[4753370.293018] Memory cgroup out of memory: Kill process 19366 (root.exe) score 963 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn156"}     wn156	[4937931.186572] Killed process 28684 (root.exe), UID 17200, total-vm:585065832kB, anon-rss:3028416kB, file-rss:5720kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn156"}     wn156	[4937931.176406] Memory cgroup out of memory: Kill process 28884 (root.exe) score 997 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn092"}     wn092	[5000216.097841] Killed process 13868 (root.exe), UID 17200, total-vm:98592680kB, anon-rss:3030712kB, file-rss:0kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn092"}     wn092	[5000216.088609] Memory cgroup out of memory: Kill process 14319 (root.exe) score 963 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn082"}     wn082	[4743351.021524] Killed process 22487 (root.exe), UID 17200, total-vm:1191371856kB, anon-rss:3005220kB, file-rss:4320kB, shmem-rss:0kB
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn082"}     wn082	[4743351.012288] Memory cgroup out of memory: Kill process 22721 (root.exe) score 998 or sacrifice child
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Tue Jan 3 04:40:03 MSK 2023 Last update log
+2023-01-03T01:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn398"}     wn398	[5013941.845665] Killed process 4483 (root.exe), UID 17200, total-vm:151619280kB, anon-rss:3043800kB, file-rss:1164kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn398"}     wn398	[5013941.835514] Memory cgroup out of memory: Kill process 4575 (root.exe) score 974 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn394"}     wn394	[5036667.622453] Killed process 26714 (root.exe), UID 17200, total-vm:88269752kB, anon-rss:3061040kB, file-rss:19796kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn394"}     wn394	[5036667.611943] Memory cgroup out of memory: Kill process 26972 (root.exe) score 945 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn393"}     wn393	[5037396.241843] Killed process 14288 (root.exe), UID 17200, total-vm:31233820kB, anon-rss:3042760kB, file-rss:4024kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn393"}     wn393	[5037396.231132] Memory cgroup out of memory: Kill process 14568 (root.exe) score 305 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn389"}     wn389	[5036621.029042] Killed process 25131 (root.exe), UID 17200, total-vm:98591964kB, anon-rss:3046732kB, file-rss:26132kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn389"}     wn389	[5036621.018482] Memory cgroup out of memory: Kill process 25642 (root.exe) score 985 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn378"}     wn378	[4756710.729768] Killed process 29095 (root.exe), UID 17200, total-vm:104129968kB, anon-rss:3061704kB, file-rss:2996kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn378"}     wn378	[4756710.719650] Memory cgroup out of memory: Kill process 29261 (root.exe) score 935 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn369"}     wn369	[4751378.270633] Killed process 11042 (root.exe), UID 17200, total-vm:6952822048kB, anon-rss:3052676kB, file-rss:0kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn369"}     wn369	[4751378.260479] Memory cgroup out of memory: Kill process 11520 (root.exe) score 969 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn343"}     wn343	[4753264.206796] Killed process 11333 (root.exe), UID 17200, total-vm:2441094368kB, anon-rss:3001024kB, file-rss:5368kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn343"}     wn343	[4753264.196853] Memory cgroup out of memory: Kill process 11557 (root.exe) score 990 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn156"}     wn156	[4937492.169848] Killed process 24206 (root.exe), UID 17200, total-vm:2479531232kB, anon-rss:3008044kB, file-rss:5416kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn156"}     wn156	[4937492.159730] Memory cgroup out of memory: Kill process 24412 (root.exe) score 74 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn156"}     wn156	[4936910.323049] Killed process 28706 (root.exe), UID 17200, total-vm:477661172kB, anon-rss:3029548kB, file-rss:3608kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn156"}     wn156	[4936910.313079] Memory cgroup out of memory: Kill process 28889 (root.exe) score 78 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn068"}     wn068	[4917934.342120] Killed process 21861 (root.exe), UID 17200, total-vm:100295612kB, anon-rss:3033836kB, file-rss:0kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn068"}     wn068	[4917934.332886] Memory cgroup out of memory: Kill process 21946 (root.exe) score 998 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Tue Jan 3 04:20:03 MSK 2023 Last update log
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni024"}    wni024	[4908668.618377] Killed process 7566 (root.exe), UID 17200, total-vm:95372868kB, anon-rss:3006604kB, file-rss:4328kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni024"}    wni024	[4908668.608465] Memory cgroup out of memory: Kill process 7849 (root.exe) score 106 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a003"}   wn2a003	[4868301.931007] Killed process 47300 (root.exe), UID 17200, total-vm:107799560kB, anon-rss:2825368kB, file-rss:28616kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a003"}   wn2a003	[4868301.921068] Memory cgroup out of memory: Kill process 47474 (root.exe) score 995 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn122"}     wn122	[4861237.725884] Killed process 950 (root.exe), UID 17200, total-vm:243549048kB, anon-rss:3016604kB, file-rss:16728kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn122"}     wn122	[4861237.715888] Memory cgroup out of memory: Kill process 1021 (root.exe) score 999 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn100"}     wn100	[4934091.667225] Killed process 475 (root.exe), UID 17200, total-vm:476914688kB, anon-rss:3000836kB, file-rss:128kB, shmem-rss:0kB
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn100"}     wn100	[4934091.656513] Memory cgroup out of memory: Kill process 920 (root.exe) score 998 or sacrifice child
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 04:20:03 MSK 2023 Last update log
+2023-01-03T01:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn374"}     wn374	[4750230.821069] Killed process 23054 (root.exe), UID 17200, total-vm:3455493416kB, anon-rss:3027804kB, file-rss:24624kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn374"}     wn374	[4750230.811045] Memory cgroup out of memory: Kill process 23255 (root.exe) score 979 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn360"}     wn360	[4752134.817246] Killed process 1592 (root.exe), UID 17200, total-vm:179718056kB, anon-rss:2493252kB, file-rss:45068kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn360"}     wn360	[4752134.807224] Memory cgroup out of memory: Kill process 2213 (root.exe) score 969 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn360"}     wn360	[4752133.939982] Killed process 2267 (sh), UID 17200, total-vm:29644kB, anon-rss:584kB, file-rss:2052kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn360"}     wn360	[4752133.930034] Memory cgroup out of memory: Kill process 2213 (root.exe) score 969 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Tue Jan 3 04:00:03 MSK 2023 Last update log
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a001"}   wn2a001	[4853870.627085] Killed process 95972 (root.exe), UID 17200, total-vm:4119241800kB, anon-rss:3018736kB, file-rss:139472kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a001"}   wn2a001	[4853870.616445] Memory cgroup out of memory: Kill process 96397 (root.exe) score 997 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4888424.247607] Killed process 115552 (root.exe), UID 17200, total-vm:2071045628kB, anon-rss:2997404kB, file-rss:45732kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4888424.236814] Memory cgroup out of memory: Kill process 116129 (root.exe) score 988 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn119"}     wn119	[4911953.251081] Killed process 21440 (root.exe), UID 17200, total-vm:86238936kB, anon-rss:3027116kB, file-rss:20548kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn119"}     wn119	[4911953.241050] Memory cgroup out of memory: Kill process 22044 (root.exe) score 987 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn110"}     wn110	[4877326.354387] Killed process 30180 (root.exe), UID 17200, total-vm:100296188kB, anon-rss:3009084kB, file-rss:4500kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn110"}     wn110	[4877326.344170] Memory cgroup out of memory: Kill process 30350 (root.exe) score 991 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn101"}     wn101	[4741361.488672] Killed process 7423 (root.exe), UID 17200, total-vm:254944692kB, anon-rss:2995692kB, file-rss:206520kB, shmem-rss:0kB
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn101"}     wn101	[4741361.477423] Memory cgroup out of memory: Kill process 7850 (root.exe) score 1001 or sacrifice child
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 04:00:03 MSK 2023 Last update log
+2023-01-03T01:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni033"}    wni033	[4728650.912308] Killed process 18180 (root.exe), UID 17200, total-vm:87352472kB, anon-rss:3006204kB, file-rss:30028kB, shmem-rss:0kB
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni033"}    wni033	[4728650.902085] Memory cgroup out of memory: Kill process 18262 (root.exe) score 997 or sacrifice child
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni022"}    wni022	[4876314.260379] Killed process 13633 (root.exe), UID 17200, total-vm:853059072kB, anon-rss:3047280kB, file-rss:28408kB, shmem-rss:0kB
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wni022"}    wni022	[4876314.249912] Memory cgroup out of memory: Kill process 13854 (root.exe) score 988 or sacrifice child
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn103"}     wn103	[4929630.825770] Killed process 15894 (root.exe), UID 17200, total-vm:88236896kB, anon-rss:3009776kB, file-rss:4840kB, shmem-rss:0kB
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn103"}     wn103	[4929630.815263] Memory cgroup out of memory: Kill process 16134 (root.exe) score 1000 or sacrifice child
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn016"}     wn016	[4859779.834786] Killed process 7976 (root.exe), UID 17200, total-vm:182552132kB, anon-rss:2992628kB, file-rss:5008kB, shmem-rss:0kB
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn016"}     wn016	[4859779.824559] Memory cgroup out of memory: Kill process 8104 (root.exe) score 990 or sacrifice child
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 03:40:03 MSK 2023 Last update log
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn368"}     wn368	[4750024.158331] Killed process 31998 (root.exe), UID 17200, total-vm:100295680kB, anon-rss:3022584kB, file-rss:23652kB, shmem-rss:0kB
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn368"}     wn368	[4750024.148249] Memory cgroup out of memory: Kill process 32245 (root.exe) score 963 or sacrifice child
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Tue Jan 3 03:40:03 MSK 2023 Last update log
+2023-01-03T00:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-03T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn042"}     wn042	[4986900.643209] Killed process 211353 (root.exe), UID 17200, total-vm:4146767504kB, anon-rss:3038272kB, file-rss:202684kB, shmem-rss:0kB
+2023-01-03T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn042"}     wn042	[4986900.631944] Memory cgroup out of memory: Kill process 211620 (root.exe) score 1001 or sacrifice child
+2023-01-03T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 03:20:04 MSK 2023 Last update log
+2023-01-03T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T21:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   625 consoles != 0 size
+2023-01-02T21:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Tue Jan 3 00:00:03 MSK 2023 Last update log
+2023-01-02T21:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T21:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   655 consoles != 0 size
+2023-01-02T21:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Tue Jan 3 00:00:03 MSK 2023 Last update log
+2023-01-02T21:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T20:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   4 consoles != 0 size
+2023-01-02T20:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 23:40:02 MSK 2023 Last update log
+2023-01-02T20:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T20:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   3 consoles != 0 size
+2023-01-02T20:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 23:00:01 MSK 2023 Last update log
+2023-01-02T20:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   2 consoles != 0 size
+2023-01-02T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 22:40:02 MSK 2023 Last update log
+2023-01-02T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f028"}  eos-f028	eos-f028 login:
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f028"}  eos-f028	Scientific Linux 7.9 (Nitrogen)
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f028"}  eos-f028	Kernel 3.10.0-1160.80.1.el7.x86_64 on an x86_64
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f028"}  eos-f028	<85>Jan  2 22:19:11 fullfw[2524]: pam_warn(sol:session): function=[pam_sm_open_session] flags=0 service=[sol] terminal=[<unknown>] user=[root] ruser=[<unknown>] rhost=[::ffff:<>.<>.<>.<>]
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   1 consoles != 0 size
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 22:20:01 MSK 2023 Last update log
+2023-01-02T19:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T18:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   2 consoles != 0 size
+2023-01-02T18:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 21:20:01 MSK 2023 Last update log
+2023-01-02T18:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T18:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   0 consoles != 0 size
+2023-01-02T18:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 21:20:01 MSK 2023 Last update log
+2023-01-02T18:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T17:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   9 consoles != 0 size
+2023-01-02T17:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   5 consoles != 0 size
+2023-01-02T17:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 20:40:02 MSK 2023 Last update log
+2023-01-02T17:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 20:40:02 MSK 2023 Last update log
+2023-01-02T17:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T17:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T17:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   4 consoles != 0 size
+2023-01-02T17:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   7 consoles != 0 size
+2023-01-02T17:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 20:00:02 MSK 2023 Last update log
+2023-01-02T17:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 20:00:02 MSK 2023 Last update log
+2023-01-02T17:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T17:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T16:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   6 consoles != 0 size
+2023-01-02T16:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 19:40:01 MSK 2023 Last update log
+2023-01-02T16:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T16:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   4 consoles != 0 size
+2023-01-02T16:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   3 consoles != 0 size
+2023-01-02T16:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 19:20:01 MSK 2023 Last update log
+2023-01-02T16:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T16:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 19:20:01 MSK 2023 Last update log
+2023-01-02T16:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T16:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   1 consoles != 0 size
+2023-01-02T16:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 19:00:01 MSK 2023 Last update log
+2023-01-02T16:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T15:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   3 consoles != 0 size
+2023-01-02T15:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 18:40:01 MSK 2023 Last update log
+2023-01-02T15:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T15:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   2 consoles != 0 size
+2023-01-02T15:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 18:00:01 MSK 2023 Last update log
+2023-01-02T15:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T14:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   0 consoles != 0 size
+2023-01-02T14:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 17:40:01 MSK 2023 Last update log
+2023-01-02T14:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T14:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   0 consoles != 0 size
+2023-01-02T14:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 17:40:01 MSK 2023 Last update log
+2023-01-02T14:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T13:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   625 consoles != 0 size
+2023-01-02T13:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 16:00:03 MSK 2023 Last update log
+2023-01-02T13:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T13:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   655 consoles != 0 size
+2023-01-02T13:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 16:00:03 MSK 2023 Last update log
+2023-01-02T13:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T12:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   3 consoles != 0 size
+2023-01-02T12:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 15:40:02 MSK 2023 Last update log
+2023-01-02T12:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T12:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   12 consoles != 0 size
+2023-01-02T12:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 15:40:02 MSK 2023 Last update log
+2023-01-02T12:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T11:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   1 consoles != 0 size
+2023-01-02T11:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 14:40:01 MSK 2023 Last update log
+2023-01-02T11:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T11:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   0 consoles != 0 size
+2023-01-02T11:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 14:20:02 MSK 2023 Last update log
+2023-01-02T11:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T11:20:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   0 consoles != 0 size
+2023-01-02T11:20:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 14:20:02 MSK 2023 Last update log
+2023-01-02T11:20:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T11:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   4 consoles != 0 size
+2023-01-02T11:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 14:00:01 MSK 2023 Last update log
+2023-01-02T11:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T10:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   3 consoles != 0 size
+2023-01-02T10:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 13:20:02 MSK 2023 Last update log
+2023-01-02T10:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T09:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   2 consoles != 0 size
+2023-01-02T09:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 12:40:01 MSK 2023 Last update log
+2023-01-02T09:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T08:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   3 consoles != 0 size
+2023-01-02T08:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 11:40:01 MSK 2023 Last update log
+2023-01-02T08:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn131"}     wn131	[4871351.455268] Killed process 28597 (root.exe), UID 17200, total-vm:70891496kB, anon-rss:3039080kB, file-rss:0kB, shmem-rss:0kB
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn131"}     wn131	[4871351.445340] Memory cgroup out of memory: Kill process 29926 (root.exe) score 998 or sacrifice child
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn178"}     wn178	[4900945.114540] Killed process 19263 (root.exe), UID 17200, total-vm:70533412kB, anon-rss:3019764kB, file-rss:0kB, shmem-rss:0kB
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   1 consoles != 0 size
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 11:00:01 MSK 2023 Last update log
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn178"}     wn178	[4900945.104588] Memory cgroup out of memory: Kill process 20818 (root.exe) score 992 or sacrifice child
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   2 consoles != 0 size
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 11:00:01 MSK 2023 Last update log
+2023-01-02T08:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T07:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   1 consoles != 0 size
+2023-01-02T07:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 10:40:02 MSK 2023 Last update log
+2023-01-02T07:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-02T07:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   0 consoles != 0 size
+2023-01-02T07:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 10:40:02 MSK 2023 Last update log
+2023-01-02T07:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T04:40:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="litmon-02"} litmon-02	[4220225.803931] ata5: hard resetting link
+2023-01-02T04:40:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 07:40:04 MSK 2023 Last update log
+2023-01-02T04:40:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T03:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f020"}  eos-f020	eos-f020 login:
+2023-01-02T03:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f020"}  eos-f020	Scientific Linux 7.9 (Nitrogen)
+2023-01-02T03:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f020"}  eos-f020	Kernel 3.10.0-1160.80.1.el7.x86_64 on an x86_64
+2023-01-02T03:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f020"}  eos-f020	<85>Jan  2 05:50:14 fullfw[2504]: pam_warn(sol:session): function=[pam_sm_open_session] flags=0 service=[sol] terminal=[<unknown>] user=[root] ruser=[<unknown>] rhost=[::ffff:<>.<>.<>.<>]
+2023-01-02T03:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 06:00:04 MSK 2023 Last update log
+2023-01-02T03:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4811515.419555] Killed process 98959 (root.exe), UID 17200, total-vm:70623848kB, anon-rss:2811804kB, file-rss:2060kB, shmem-rss:0kB
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4811515.407945] Memory cgroup out of memory: Kill process 103966 (root.exe) score 994 or sacrifice child
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4811437.797886] Killed process 105212 (root.exe), UID 17200, total-vm:26732572kB, anon-rss:2577924kB, file-rss:2336kB, shmem-rss:0kB
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn200"}     wn200	[4811437.787951] Memory cgroup out of memory: Kill process 109238 (root.exe) score 367 or sacrifice child
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	eos-f029 login:
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	Scientific Linux 7.9 (Nitrogen)
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	Kernel 3.10.0-1160.80.1.el7.x86_64 on an x86_64
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	<85>Jan  2 04:51:24 fullfw[2511]: pam_warn(sol:session): function=[pam_sm_open_session] flags=0 service=[sol] terminal=[<unknown>] user=[root] ruser=[<unknown>] rhost=[::ffff:<>.<>.<>.<>]
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 05:00:03 MSK 2023 Last update log
+2023-01-02T02:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T00:40:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="lcms"}      lcms	[4436004.237743] svc: svc_tcp_read_marker lockd RPC fragment too large: 50331695
+2023-01-02T00:40:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 03:40:04 MSK 2023 Last update log
+2023-01-02T00:40:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn019"}     wn019	[200: status: { DRDY }
+2023-01-02T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 03:20:03 MSK 2023 Last update log
+2023-01-02T00:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-02T00:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn019"}     wn019	[199803.255631] ata2.00:00:60:00:c4:ba/00:00:4b:00:00/40 Emask 0x10 (ATA bus error)
+2023-01-02T00:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 03:00:03 MSK 2023 Last update log
+2023-01-02T00:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T22:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="t2-s732"}   t2-s732	[4014718.489453] svc: svc_tcp_read_marker lockd RPC fragment too large: 50331667
+2023-01-01T22:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 01:20:03 MSK 2023 Last update log
+2023-01-01T22:20:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T21:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   625 consoles != 0 size
+2023-01-01T21:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Mon Jan 2 00:00:03 MSK 2023 Last update log
+2023-01-01T21:00:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T21:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   655 consoles != 0 size
+2023-01-01T21:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Mon Jan 2 00:00:03 MSK 2023 Last update log
+2023-01-01T21:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T20:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   15 consoles != 0 size
+2023-01-01T20:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 23:40:02 MSK 2023 Last update log
+2023-01-01T20:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T20:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   14 consoles != 0 size
+2023-01-01T20:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 23:20:01 MSK 2023 Last update log
+2023-01-01T20:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T20:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   13 consoles != 0 size
+2023-01-01T20:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 23:00:01 MSK 2023 Last update log
+2023-01-01T20:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn019"}     wn019	[183983.09835Emask 0x10 (ATA bus error)
+2023-01-01T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   12 consoles != 0 size
+2023-01-01T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 22:40:02 MSK 2023 Last update log
+2023-01-01T19:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T19:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   9 consoles != 0 size
+2023-01-01T19:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 22:20:01 MSK 2023 Last update log
+2023-01-01T19:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T19:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   4 consoles != 0 size
+2023-01-01T19:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 22:00:01 MSK 2023 Last update log
+2023-01-01T19:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T19:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   4 consoles != 0 size
+2023-01-01T19:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 22:00:01 MSK 2023 Last update log
+2023-01-01T19:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T18:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   3 consoles != 0 size
+2023-01-01T18:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 21:40:02 MSK 2023 Last update log
+2023-01-01T18:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T18:20:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   2 consoles != 0 size
+2023-01-01T18:20:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 21:20:02 MSK 2023 Last update log
+2023-01-01T18:20:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T18:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   2 consoles != 0 size
+2023-01-01T18:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 21:20:02 MSK 2023 Last update log
+2023-01-01T18:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T18:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   1 consoles != 0 size
+2023-01-01T18:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 21:00:02 MSK 2023 Last update log
+2023-01-01T18:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T17:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   0 consoles != 0 size
+2023-01-01T17:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 20:20:01 MSK 2023 Last update log
+2023-01-01T17:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T17:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   0 consoles != 0 size
+2023-01-01T17:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 20:20:01 MSK 2023 Last update log
+2023-01-01T17:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T17:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	eos-f029 login:
+2023-01-01T17:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	Scientific Linux 7.9 (Nitrogen)
+2023-01-01T17:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	Kernel 3.10.0-1160.80.1.el7.x86_64 on an x86_64
+2023-01-01T17:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	<85>Jan  1 19:52:04 fullfw[2511]: pam_warn(sol:session): function=[pam_sm_open_session] flags=0 service=[sol] terminal=[<unknown>] user=[root] ruser=[<unknown>] rhost=[::ffff:<>.<>.<>.<>]
+2023-01-01T17:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 20:00:03 MSK 2023 Last update log
+2023-01-01T17:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T16:40:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn340"}     wn340	[4636260.393867] Killed process 22316 (root.exe), UID 17200, total-vm:71037988kB, anon-rss:3028932kB, file-rss:1732kB, shmem-rss:0kB
+2023-01-01T16:40:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn340"}     wn340	[4636260.383913] Memory cgroup out of memory: Kill process 23743 (root.exe) score 999 or sacrifice child
+2023-01-01T16:40:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 19:40:04 MSK 2023 Last update log
+2023-01-01T16:40:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T16:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4770855.241692] Killed process 7749 (root.exe), UID 17200, total-vm:70886656kB, anon-rss:3055428kB, file-rss:2296kB, shmem-rss:0kB
+2023-01-01T16:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn2a000"}   wn2a000	[4770855.231136] Memory cgroup out of memory: Kill process 24640 (root.exe) score 998 or sacrifice child
+2023-01-01T16:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 19:20:04 MSK 2023 Last update log
+2023-01-01T16:20:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T16:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn008"}     wn008	[4805277.047894] Killed process 19639 (root.exe), UID 17200, total-vm:69450660kB, anon-rss:3025720kB, file-rss:0kB, shmem-rss:0kB
+2023-01-01T16:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn008"}     wn008	[4805277.037653] Memory cgroup out of memory: Kill process 21708 (root.exe) score 977 or sacrifice child
+2023-01-01T16:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 19:00:04 MSK 2023 Last update log
+2023-01-01T16:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log", host="rdb005"}    rdb005	[4764309.305832] power_meter ACPI000D:00: Ignoring unsafe software power cap!
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 18:40:03 MSK 2023 Last update log
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn111"}     wn111	[4792705.170313] Killed process 4130 (root.exe), UID 17200, total-vm:69277600kB, anon-rss:2995352kB, file-rss:244kB, shmem-rss:0kB
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn111"}     wn111	[4792705.159951] Memory cgroup out of memory: Kill process 4895 (root.exe) score 975 or sacrifice child
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 18:40:03 MSK 2023 Last update log
+2023-01-01T15:40:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T15:20:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn321"}     wn321	[4815719.502329] Killed process 16149 (root.exe), UID 17200, total-vm:66553172kB, anon-rss:3030420kB, file-rss:0kB, shmem-rss:0kB
+2023-01-01T15:20:04Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn321"}     wn321	[4815719.491998] Memory cgroup out of memory: Kill process 18211 (root.exe) score 936 or sacrifice child
+2023-01-01T15:20:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 18:20:03 MSK 2023 Last update log
+2023-01-01T15:20:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T15:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn048"}     wn048	[4856369.470270] Killed process 44954 (root.exe), UID 17200, total-vm:68522080kB, anon-rss:3044104kB, file-rss:1352kB, shmem-rss:0kB
+2023-01-01T15:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="wn048"}     wn048	[4856369.459092] Memory cgroup out of memory: Kill process 47620 (root.exe) score 964 or sacrifice child
+2023-01-01T15:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 18:00:04 MSK 2023 Last update log
+2023-01-01T15:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T13:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   625 consoles != 0 size
+2023-01-01T13:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 16:00:03 MSK 2023 Last update log
+2023-01-01T13:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T13:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   655 consoles != 0 size
+2023-01-01T13:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 16:00:03 MSK 2023 Last update log
+2023-01-01T13:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T12:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   8 consoles != 0 size
+2023-01-01T12:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 15:40:02 MSK 2023 Last update log
+2023-01-01T12:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T12:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   8 consoles != 0 size
+2023-01-01T12:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 15:40:02 MSK 2023 Last update log
+2023-01-01T12:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T12:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="lcms"}      lcms	[4391527.308334] svc: svc_tcp_read_marker lockd RPC fragment too large: 50331695
+2023-01-01T12:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   7 consoles != 0 size
+2023-01-01T12:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 15:20:02 MSK 2023 Last update log
+2023-01-01T12:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   7 consoles != 0 size
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 15:00:01 MSK 2023 Last update log
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log", host="litmon-02"} litmon-02	[4159813.726434] ata5: hard resetting link
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   4 consoles != 0 size
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 15:00:01 MSK 2023 Last update log
+2023-01-01T12:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T11:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   1 consoles != 0 size
+2023-01-01T11:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 14:00:02 MSK 2023 Last update log
+2023-01-01T11:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T10:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn345"}     wn345	[4614505.820251] Killed process 9884 (root.exe), UID 17200, total-vm:67072744kB, anon-rss:2987480kB, file-rss:1720kB, shmem-rss:0kB
+2023-01-01T10:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn345"}     wn345	[4614505.809881] Memory cgroup out of memory: Kill process 11505 (root.exe) score 943 or sacrifice child
+2023-01-01T10:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   6 consoles != 0 size
+2023-01-01T10:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 13:40:01 MSK 2023 Last update log
+2023-01-01T10:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T10:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn363"}     wn363	[4613681.594208] Killed process 32078 (root.exe), UID 17200, total-vm:69028924kB, anon-rss:3033304kB, file-rss:0kB, shmem-rss:0kB
+2023-01-01T10:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn363"}     wn363	[4613681.584161] Memory cgroup out of memory: Kill process 32512 (root.exe) score 972 or sacrifice child
+2023-01-01T10:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   4 consoles != 0 size
+2023-01-01T10:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 13:20:01 MSK 2023 Last update log
+2023-01-01T10:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn396"}     wn396	[4824765.115106] Killed process 2576 (root.exe), UID 17200, total-vm:70881448kB, anon-rss:3021892kB, file-rss:0kB, shmem-rss:0kB
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn396"}     wn396	[4824765.104755] Memory cgroup out of memory: Kill process 4052 (root.exe) score 997 or sacrifice child
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn386"}     wn386	[4766586.729047] Killed process 13342 (root.exe), UID 17200, total-vm:70793052kB, anon-rss:2948340kB, file-rss:1584kB, shmem-rss:0kB
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log", host="wn386"}     wn386	[4766586.718968] Memory cgroup out of memory: Kill process 16106 (root.exe) score 996 or sacrifice child
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   3 consoles != 0 size
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 13:00:01 MSK 2023 Last update log
+2023-01-01T10:00:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T09:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   1 consoles != 0 size
+2023-01-01T09:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 12:40:02 MSK 2023 Last update log
+2023-01-01T09:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T09:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   0 consoles != 0 size
+2023-01-01T09:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 12:20:01 MSK 2023 Last update log
+2023-01-01T09:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T09:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   0 consoles != 0 size
+2023-01-01T09:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 12:20:01 MSK 2023 Last update log
+2023-01-01T09:20:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T09:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	eos-f029 login:
+2023-01-01T09:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	Scientific Linux 7.9 (Nitrogen)
+2023-01-01T09:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	Kernel 3.10.0-1160.80.1.el7.x86_64 on an x86_64
+2023-01-01T09:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f029"}  eos-f029	<85>Jan  1 11:54:50 fullfw[2511]: pam_warn(sol:session): function=[pam_sm_open_session] flags=0 service=[sol] terminal=[<unknown>] user=[root] ruser=[<unknown>] rhost=[::ffff:<>.<>.<>.<>]
+2023-01-01T09:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 12:00:03 MSK 2023 Last update log
+2023-01-01T09:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T06:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log", host="lcms"}      lcms	[4368956.899069] svc: svc_tcp_read_marker lockd RPC fragment too large: 50331695
+2023-01-01T06:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 09:00:03 MSK 2023 Last update log
+2023-01-01T06:00:03Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   625 consoles != 0 size
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 08:00:04 MSK 2023 Last update log
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795943.097776] bond0: link status definitely up for interface em1, 10000 Mbps full duplex
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795943.087156] ixgbe 0000:01:00.0 em1: NIC Link is Up 10 Gbps, Flow Control: None
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795942.992776] bond0: first active interface up!
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795942.982780] bond0: link status definitely up for interface em2, 10000 Mbps full duplex
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795942.962885] ixgbe 0000:01:00.1 em2: NIC Link is Up 10 Gbps, Flow Control: None
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.476204] bond0: now running without any active interface!
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.467024] bond0: link status definitely down for interface em2, disabling it
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.457788] bond0: link status definitely down for interface em1, disabling it
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.394076] ixgbe 0000:01:00.0 em1: speed changed to 0 for port em1
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.385872] ixgbe 0000:01:00.1 em2: speed changed to 0 for port em2
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.378964] ixgbe 0000:01:00.0 em1: NIC Link is Down
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4795939.372072] ixgbe 0000:01:00.1 em2: NIC Link is Down
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   655 consoles != 0 size
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 08:00:04 MSK 2023 Last update log
+2023-01-01T05:00:04Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T04:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   55 consoles != 0 size
+2023-01-01T04:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 07:20:02 MSK 2023 Last update log
+2023-01-01T04:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T04:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   53 consoles != 0 size
+2023-01-01T04:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 07:00:01 MSK 2023 Last update log
+2023-01-01T04:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T03:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   52 consoles != 0 size
+2023-01-01T03:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 06:40:02 MSK 2023 Last update log
+2023-01-01T03:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T03:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   17 consoles != 0 size
+2023-01-01T03:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 06:20:01 MSK 2023 Last update log
+2023-01-01T03:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T03:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   15 consoles != 0 size
+2023-01-01T03:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 06:00:01 MSK 2023 Last update log
+2023-01-01T03:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T03:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   51 consoles != 0 size
+2023-01-01T03:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 06:00:01 MSK 2023 Last update log
+2023-01-01T03:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   13 consoles != 0 size
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 05:40:02 MSK 2023 Last update log
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787134.058124] bond0: link status definitely up for interface em1, 10000 Mbps full duplex
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787133.986229] ixgbe 0000:01:00.0 em1: NIC Link is Up 10 Gbps, Flow Control: None
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787133.752264] bond0: first active interface up!
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787133.742162] bond0: link status definitely up for interface em2, 10000 Mbps full duplex
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787133.691152] ixgbe 0000:01:00.1 em2: NIC Link is Up 10 Gbps, Flow Control: None
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787131.133127] bond0: link status definitely down for interface em1, disabling it
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787130.326337] bond0: now running without any active interface!
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787130.317119] bond0: link status definitely down for interface em1, disabling it
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787130.295471] ixgbe 0000:01:00.0 em1: NIC Link is Down
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787130.108116] bond0: link status definitely down for interface em2, disabling it
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787130.052181] ixgbe 0000:01:00.1 em2: speed changed to 0 for port em2
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log", host="eos-f009"}  eos-f009	[4787130.045210] ixgbe 0000:01:00.1 em2: NIC Link is Down
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   49 consoles != 0 size
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 05:40:02 MSK 2023 Last update log
+2023-01-01T02:40:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T02:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   10 consoles != 0 size
+2023-01-01T02:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 05:20:01 MSK 2023 Last update log
+2023-01-01T02:20:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T02:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   48 consoles != 0 size
+2023-01-01T02:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 05:00:01 MSK 2023 Last update log
+2023-01-01T02:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T02:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   9 consoles != 0 size
+2023-01-01T02:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 05:00:01 MSK 2023 Last update log
+2023-01-01T02:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T01:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   46 consoles != 0 size
+2023-01-01T01:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 04:20:02 MSK 2023 Last update log
+2023-01-01T01:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T01:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   42 consoles != 0 size
+2023-01-01T01:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 04:00:02 MSK 2023 Last update log
+2023-01-01T01:00:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T00:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   7 consoles != 0 size
+2023-01-01T00:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 03:40:01 MSK 2023 Last update log
+2023-01-01T00:40:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T00:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   37 consoles != 0 size
+2023-01-01T00:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 03:40:01 MSK 2023 Last update log
+2023-01-01T00:40:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T00:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   18 consoles != 0 size
+2023-01-01T00:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 03:20:01 MSK 2023 Last update log
+2023-01-01T00:20:02Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
+2023-01-01T00:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   6 consoles != 0 size
+2023-01-01T00:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   Sun Jan 1 03:00:01 MSK 2023 Last update log
+2023-01-01T00:00:01Z {filename="/var/log/srcnsl_logs/srlc02.log"}                   ################# -= Get logs from srlc02 =- #################
+2023-01-01T00:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   16 consoles != 0 size
+2023-01-01T00:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   Sun Jan 1 03:00:01 MSK 2023 Last update log
+2023-01-01T00:00:01Z {filename="/var/log/srcnsl_logs/srlc01.log"}                   ################# -= New LOGs from srlc01 =- #################
